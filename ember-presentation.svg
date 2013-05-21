@@ -27,9 +27,9 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.223796"
-     inkscape:cx="695.67977"
-     inkscape:cy="369.88583"
+     inkscape:zoom="4"
+     inkscape:cx="307.96994"
+     inkscape:cy="504.27058"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="true"
@@ -5246,6 +5246,26 @@ JESSYINK.modules.core_view_linear_combination = new JessyInk_core_view_linear_co
          offset="1"
          style="stop-color:#676767;stop-opacity:1;" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2955-8-3-4-15-60-2-4-6-1"
+       id="linearGradient5643"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3525226,0,0,1.466055,468.79157,-104.87421)"
+       x1="288.3161"
+       y1="122.55768"
+       x2="325.18616"
+       y2="295.01715" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2955-8-3-4-15-60-2-4-6-1"
+       id="linearGradient5764"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3525226,0,0,1.466055,468.79157,-104.87421)"
+       x1="288.3161"
+       y1="122.55768"
+       x2="325.18616"
+       y2="295.01715" />
   </defs>
   <metadata
      id="metadata7">
@@ -6834,7 +6854,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
              sodipodi:cy="98.758888"
              sodipodi:rx="7.3225985"
              sodipodi:ry="7.5444951"
-             d="m -343.05265,98.758888 a 7.3225985,7.5444951 0 1 1 -14.64519,0 7.3225985,7.5444951 0 1 1 14.64519,0 z"
+             d="m -343.05265,98.758888 c 0,4.166712 -3.27843,7.544492 -7.32259,7.544492 -4.04416,0 -7.3226,-3.37778 -7.3226,-7.544492 0,-4.166709 3.27844,-7.544495 7.3226,-7.544495 4.04416,0 7.32259,3.377786 7.32259,7.544495 z"
              transform="matrix(1.021914,0,0,0.99185773,1194.2466,99.024329)" />
           <path
              sodipodi:insensitive="true"
@@ -6845,7 +6865,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
              sodipodi:cy="98.758888"
              sodipodi:rx="7.3225985"
              sodipodi:ry="7.5444951"
-             d="m -343.05265,98.758888 a 7.3225985,7.5444951 0 1 1 -14.64519,0 7.3225985,7.5444951 0 1 1 14.64519,0 z"
+             d="m -343.05265,98.758888 c 0,4.166712 -3.27843,7.544492 -7.32259,7.544492 -4.04416,0 -7.3226,-3.37778 -7.3226,-7.544492 0,-4.166709 3.27844,-7.544495 7.3226,-7.544495 4.04416,0 7.32259,3.377786 7.32259,7.544495 z"
              transform="matrix(1.021914,0,0,0.99185773,1218.7238,99.024329)" />
           <path
              sodipodi:insensitive="true"
@@ -6856,7 +6876,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
              sodipodi:cy="98.758888"
              sodipodi:rx="7.3225985"
              sodipodi:ry="7.5444951"
-             d="m -343.05265,98.758888 a 7.3225985,7.5444951 0 1 1 -14.64519,0 7.3225985,7.5444951 0 1 1 14.64519,0 z"
+             d="m -343.05265,98.758888 c 0,4.166712 -3.27843,7.544492 -7.32259,7.544492 -4.04416,0 -7.3226,-3.37778 -7.3226,-7.544492 0,-4.166709 3.27844,-7.544495 7.3226,-7.544495 4.04416,0 7.32259,3.377786 7.32259,7.544495 z"
              transform="matrix(1.021914,0,0,0.99185773,1243.201,99.024329)" />
           <g
              sodipodi:insensitive="true"
@@ -7259,7 +7279,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
        sodipodi:cy="461.58521"
        sodipodi:rx="5.6675768"
        sodipodi:ry="4.7534513"
-       d="m -315.19039,461.58521 a 5.6675768,4.7534513 0 1 1 -11.33516,0 5.6675768,4.7534513 0 1 1 11.33516,0 z"
+       d="m -315.19039,461.58521 c 0,2.62525 -2.53746,4.75345 -5.66758,4.75345 -3.13012,0 -5.66758,-2.1282 -5.66758,-4.75345 0,-2.62526 2.53746,-4.75346 5.66758,-4.75346 3.13012,0 5.66758,2.1282 5.66758,4.75346 z"
        transform="matrix(1.1468747,0,0,1.3674276,-94.99517,-169.85416)"
        sodipodi:insensitive="true" />
     <text
@@ -7351,7 +7371,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
          sodipodi:insensitive="true">
         <path
            transform="matrix(2.7411763,0,0,3.2106574,1648.805,-1355.7527)"
-           d="m -315.19039,461.58521 a 5.6675768,4.7534513 0 1 1 -11.33516,0 5.6675768,4.7534513 0 1 1 11.33516,0 z"
+           d="m -315.19039,461.58521 c 0,2.62525 -2.53746,4.75345 -5.66758,4.75345 -3.13012,0 -5.66758,-2.1282 -5.66758,-4.75345 0,-2.62526 2.53746,-4.75346 5.66758,-4.75346 3.13012,0 5.66758,2.1282 5.66758,4.75346 z"
            sodipodi:ry="4.7534513"
            sodipodi:rx="5.6675768"
            sodipodi:cy="461.58521"
@@ -7362,7 +7382,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
            sodipodi:insensitive="true" />
         <path
            transform="matrix(2.1355642,0,0,2.5013222,1408.4827,-1017.7)"
-           d="m -315.19039,461.58521 a 5.6675768,4.7534513 0 1 1 -11.33516,0 5.6675768,4.7534513 0 1 1 11.33516,0 z"
+           d="m -315.19039,461.58521 c 0,2.62525 -2.53746,4.75345 -5.66758,4.75345 -3.13012,0 -5.66758,-2.1282 -5.66758,-4.75345 0,-2.62526 2.53746,-4.75346 5.66758,-4.75346 3.13012,0 5.66758,2.1282 5.66758,4.75346 z"
            sodipodi:ry="4.7534513"
            sodipodi:rx="5.6675768"
            sodipodi:cy="461.58521"
@@ -7373,7 +7393,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
            sodipodi:insensitive="true" />
         <path
            transform="matrix(1.227146,0,0,1.4373194,1084.5341,-514.22469)"
-           d="m -315.19039,461.58521 a 5.6675768,4.7534513 0 1 1 -11.33516,0 5.6675768,4.7534513 0 1 1 11.33516,0 z"
+           d="m -315.19039,461.58521 c 0,2.62525 -2.53746,4.75345 -5.66758,4.75345 -3.13012,0 -5.66758,-2.1282 -5.66758,-4.75345 0,-2.62526 2.53746,-4.75346 5.66758,-4.75346 3.13012,0 5.66758,2.1282 5.66758,4.75346 z"
            sodipodi:ry="4.7534513"
            sodipodi:rx="5.6675768"
            sodipodi:cy="461.58521"
@@ -7480,7 +7500,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
            sodipodi:cy="98.758888"
            sodipodi:rx="7.3225985"
            sodipodi:ry="7.5444951"
-           d="m -343.05265,98.758888 a 7.3225985,7.5444951 0 1 1 -14.64519,0 7.3225985,7.5444951 0 1 1 14.64519,0 z"
+           d="m -343.05265,98.758888 c 0,4.166712 -3.27843,7.544492 -7.32259,7.544492 -4.04416,0 -7.3226,-3.37778 -7.3226,-7.544492 0,-4.166709 3.27844,-7.544495 7.3226,-7.544495 4.04416,0 7.32259,3.377786 7.32259,7.544495 z"
            transform="matrix(1.021914,0,0,0.99185773,1194.2466,99.024329)" />
         <path
            sodipodi:insensitive="true"
@@ -7491,7 +7511,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
            sodipodi:cy="98.758888"
            sodipodi:rx="7.3225985"
            sodipodi:ry="7.5444951"
-           d="m -343.05265,98.758888 a 7.3225985,7.5444951 0 1 1 -14.64519,0 7.3225985,7.5444951 0 1 1 14.64519,0 z"
+           d="m -343.05265,98.758888 c 0,4.166712 -3.27843,7.544492 -7.32259,7.544492 -4.04416,0 -7.3226,-3.37778 -7.3226,-7.544492 0,-4.166709 3.27844,-7.544495 7.3226,-7.544495 4.04416,0 7.32259,3.377786 7.32259,7.544495 z"
            transform="matrix(1.021914,0,0,0.99185773,1218.7238,99.024329)" />
         <path
            sodipodi:insensitive="true"
@@ -7502,7 +7522,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
            sodipodi:cy="98.758888"
            sodipodi:rx="7.3225985"
            sodipodi:ry="7.5444951"
-           d="m -343.05265,98.758888 a 7.3225985,7.5444951 0 1 1 -14.64519,0 7.3225985,7.5444951 0 1 1 14.64519,0 z"
+           d="m -343.05265,98.758888 c 0,4.166712 -3.27843,7.544492 -7.32259,7.544492 -4.04416,0 -7.3226,-3.37778 -7.3226,-7.544492 0,-4.166709 3.27844,-7.544495 7.3226,-7.544495 4.04416,0 7.32259,3.377786 7.32259,7.544495 z"
            transform="matrix(1.021914,0,0,0.99185773,1243.201,99.024329)" />
         <g
            sodipodi:insensitive="true"
@@ -7555,8 +7575,8 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
        id="rect14046-0"
        width="11.906647"
        height="11.906647"
-       x="331.74615"
-       y="329.73599"
+       x="315.74615"
+       y="316.73599"
        rx="2.3813293"
        ry="2.3813293" />
     <rect
@@ -7564,15 +7584,15 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
        id="rect14046-0-5"
        width="11.906647"
        height="11.906647"
-       x="331.74615"
-       y="344.69135"
+       x="315.74615"
+       y="331.69135"
        rx="2.3813293"
        ry="2.3813293" />
     <rect
        ry="2.3813293"
        rx="2.3813293"
-       y="314.78061"
-       x="331.74615"
+       y="301.78061"
+       x="315.74615"
        height="11.906647"
        width="11.906647"
        id="rect14046-0-7"
@@ -7580,7 +7600,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
     <g
        style="display:inline"
        id="g6209"
-       transform="matrix(0.56078613,0,0,0.56078613,53.689822,223.51447)">
+       transform="matrix(0.56078613,0,0,0.56078613,37.689822,210.51447)">
       <g
          style="display:inline"
          id="g2976-3-36-1-2"
@@ -7752,7 +7772,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
     <g
        style="display:inline"
        id="g6096"
-       transform="matrix(0.56078613,0,0,0.56078613,53.689822,223.51447)">
+       transform="matrix(0.56078613,0,0,0.56078613,37.689822,210.51447)">
       <rect
          style="fill:none;stroke:none;display:inline"
          id="rect6049-1-2"
@@ -7924,7 +7944,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
     <g
        style="display:inline"
        id="g7063"
-       transform="matrix(0.56078613,0,0,0.56078613,53.689822,223.51447)">
+       transform="matrix(0.56078613,0,0,0.56078613,37.689822,210.51447)">
       <rect
          style="fill:#ffffff;fill-opacity:0;stroke:none"
          id="rect5044"
@@ -8244,59 +8264,50 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
     </g>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="173.24266"
-       y="341.91254"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="157.24266"
+       y="328.91254"
        id="text6173"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6175"
-         x="173.24266"
-         y="341.91254">Resource</tspan></text>
+         x="157.24266"
+         y="328.91254">Resource</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26528326;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect2834-7-9-6-4"
+       d="m 186.24869,413.76837 -4.77509,-4.77509 0,2.38756 -4.77509,0 0,4.77509 4.77509,0 0,2.38753 4.77509,-4.77509 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="193.75653"
+       y="420.91681"
+       id="text6173-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6175-5"
+         x="193.75653"
+         y="420.91681"
+         style="font-size:18px">Resource</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26528326;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect2834-7-9-6"
+       d="m 185.18906,367.76623 -4.77509,-4.77509 0,2.38756 -4.77509,0 0,4.77509 4.77509,0 0,2.38753 4.77509,-4.77509 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="192.6969"
+       y="374.91467"
+       id="text6173-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6175-0"
+         x="192.6969"
+         y="374.91467">Route</tspan></text>
     <g
-       style="display:inline"
-       id="g6279"
-       transform="translate(56.048342,255.56421)">
-      <path
-         d="m 146.20035,171.20416 -4.77509,-4.77509 0,2.38756 -4.77509,0 0,4.77509 4.77509,0 0,2.38753 4.77509,-4.77509 z"
-         id="rect2834-7-9-6-4"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26528326;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         inkscape:connector-curvature="0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text6173-1"
-         y="178.3526"
-         x="153.70819"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         xml:space="preserve"><tspan
-           y="178.3526"
-           x="153.70819"
-           id="tspan6175-5"
-           sodipodi:role="line">Resource</tspan></text>
-    </g>
-    <g
-       style="display:inline"
-       id="g6274"
-       transform="translate(54.988712,231.66563)">
-      <path
-         d="m 146.20035,149.1006 -4.77509,-4.77509 0,2.38756 -4.77509,0 0,4.77509 4.77509,0 0,2.38753 4.77509,-4.77509 z"
-         id="rect2834-7-9-6"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26528326;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         inkscape:connector-curvature="0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text6173-5"
-         y="156.24904"
-         x="153.70819"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         xml:space="preserve"><tspan
-           y="156.24904"
-           x="153.70819"
-           id="tspan6175-0"
-           sodipodi:role="line">Route</tspan></text>
-    </g>
-    <g
-       transform="translate(56.048342,210)"
+       transform="translate(40.048342,213)"
        style="display:inline"
        id="g5866">
       <rect
@@ -8390,7 +8401,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
     <g
        style="display:inline"
        id="g8873"
-       transform="translate(-27.674078,198.30389)">
+       transform="translate(-43.674078,191.30389)">
       <rect
          ry="2.3813293"
          rx="2.3813293"
@@ -8433,7 +8444,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
            y="193.85381">V</tspan></text>
     </g>
     <g
-       transform="translate(56.048342,210)"
+       transform="translate(40.048342,197)"
        style="display:inline"
        id="g10107">
       <text
@@ -8667,7 +8678,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       </g>
     </g>
     <g
-       transform="translate(56.048342,210)"
+       transform="translate(40.048342,197)"
        style="display:inline"
        id="g10052">
       <text
@@ -9004,7 +9015,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       </g>
     </g>
     <g
-       transform="translate(56.048342,210)"
+       transform="translate(40.048342,197)"
        style="display:inline"
        id="g10226">
       <path
@@ -9237,7 +9248,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       </g>
     </g>
     <g
-       transform="translate(56.048342,210)"
+       transform="translate(40.048342,197)"
        style="display:inline"
        id="g10691">
       <text
@@ -9522,7 +9533,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
            id="tspan8140" /></text>
     </g>
     <g
-       transform="translate(56.048342,210)"
+       transform="translate(40.048342,197)"
        style="display:inline"
        id="g10663">
       <text
@@ -9755,15 +9766,46 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
              sodipodi:role="line">2.0.0-alpha-1</tspan></text>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="159.20555"
+       y="342.70709"
+       id="text4945"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4947"
+         x="159.20555"
+         y="342.70709"
+         style="font-size:10px;fill:#4d4d4d">/posts/2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="194.65979"
+       y="388.76773"
+       id="text4945-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4947-9"
+         x="194.65979"
+         y="388.76773"
+         style="font-size:10px;fill:#4d4d4d">/posts/2/edit</tspan></text>
     <g
-       transform="translate(56.048342,210)"
-       style="display:inline"
-       id="g10185">
+       id="g5789">
+      <rect
+         ry="1.0616032"
+         rx="12.739239"
+         y="213"
+         x="136.04834"
+         height="5"
+         width="15"
+         id="rect8894-8-8"
+         style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
       <rect
          ry="4.2464128"
          rx="4.2464128"
-         y="113"
-         x="300"
+         y="313"
+         x="340.04834"
          height="20"
          width="5"
          id="rect8894"
@@ -9771,8 +9813,8 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       <rect
          ry="1.0616032"
          rx="12.739239"
-         y="143"
-         x="120"
+         y="343"
+         x="160.04834"
          height="5"
          width="15"
          id="rect8894-8"
@@ -9780,7 +9822,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       <g
          style="display:inline"
          id="g2976-3-36-1-7"
-         transform="matrix(0.06499561,0,0,0.06616304,30.898267,128.41448)"
+         transform="matrix(0.06499561,0,0,0.06616304,86.946609,338.41448)"
          jessyink:element="core_view_linear_combination"
          jessyink:lockstate="unlocked">
         <rect
@@ -9791,7 +9833,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
            x="662.4046"
            y="98.757324"
            ry="25"
-           style="fill:url(#linearGradient4895-6);fill-opacity:1;stroke:#4b4b4b;stroke-width:3.55963564;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:url(#linearGradient5764);fill-opacity:1;stroke:#4b4b4b;stroke-width:3.55963564;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            jessyink:lockstate="unlocked" />
         <text
            xml:space="preserve"
@@ -9926,49 +9968,14 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
              y="236.17593"
              sodipodi:insensitive="true">s</tspan></text>
       </g>
-      <rect
-         ry="1.0616032"
-         rx="12.739239"
-         y="13"
-         x="80"
-         height="5"
-         width="15"
-         id="rect8894-8-8"
-         style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="186.04834"
-       y="355.70709"
-       id="text4945"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4947"
-         x="186.04834"
-         y="355.70709"
-         style="font-size:10px;fill:#4d4d4d">/posts/2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="221.04834"
-       y="401.76773"
-       id="text4945-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4947-9"
-         x="221.04834"
-         y="401.76773"
-         style="font-size:10px;fill:#4d4d4d">/posts/2/edit</tspan></text>
     <g
-       transform="translate(56.048342,210)"
-       style="display:inline"
-       id="g10488">
+       id="g5693">
       <rect
          ry="1.0616032"
          rx="12.739239"
-         y="37.979424"
-         x="80.304214"
+         y="247.97943"
+         x="136.35255"
          height="5"
          width="15"
          id="rect8894-8-8-7"
@@ -9976,8 +9983,8 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       <rect
          ry="1.0616032"
          rx="12.739239"
-         y="187.02522"
-         x="119.7792"
+         y="387.02521"
+         x="159.82755"
          height="5"
          width="15"
          id="rect8894-8-8-7-3"
@@ -9985,7 +9992,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       <g
          style="display:inline"
          id="g2976-3-36-1-7-0"
-         transform="matrix(0.06499561,0,0,0.06616304,32.06165,167.28129)"
+         transform="matrix(0.06499561,0,0,0.06616304,88.109992,377.28129)"
          jessyink:element="core_view_linear_combination"
          jessyink:lockstate="unlocked">
         <rect
@@ -10134,8 +10141,8 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       <rect
          ry="4.2464128"
          rx="4.2464128"
-         y="161.44788"
-         x="300"
+         y="361.44788"
+         x="340.04834"
          height="20"
          width="5"
          id="rect8894-0"
@@ -10144,14 +10151,14 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="221.40189"
-       y="448.18192"
+       x="195.71942"
+       y="435.18192"
        id="text4945-2-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4947-9-6"
-         x="221.40189"
-         y="448.18192">/posts/2/comments</tspan></text>
+         x="195.71942"
+         y="435.18192">/posts/2/comments</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text12468"
@@ -12214,7 +12221,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
          style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     </g>
     <g
-       transform="translate(56.048342,210)"
+       transform="translate(40.048342,197)"
        style="display:inline"
        id="g20635">
       <rect
@@ -12535,7 +12542,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       </g>
     </g>
     <g
-       transform="translate(56.048342,210)"
+       transform="translate(40.048342,197)"
        style="display:inline"
        id="g20790">
       <text
@@ -12987,7 +12994,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       </g>
     </g>
     <g
-       transform="translate(56.048342,210)"
+       transform="translate(40.048342,197)"
        style="display:inline"
        id="g20953">
       <text
@@ -13540,25 +13547,23 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       </g>
     </g>
     <g
-       transform="translate(56.048342,210)"
-       style="display:inline"
-       id="g21234">
+       id="g5718">
       <text
          xml:space="preserve"
          style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-         x="79.023705"
-         y="89.846458"
+         x="135.07205"
+         y="299.84647"
          id="text14164"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan14166"
-           x="79.023705"
-           y="89.846458">Router</tspan></text>
+           x="135.07205"
+           y="299.84647">Router</tspan></text>
       <rect
          ry="4.2464128"
          rx="4.2464128"
-         y="209.40816"
-         x="300"
+         y="409.40814"
+         x="340.04834"
          height="20"
          width="5"
          id="rect8894-0-2"
@@ -13566,7 +13571,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       <g
          style="display:inline"
          id="g2976-3-36-1-7-0-5"
-         transform="matrix(0.06499561,0,0,0.06616304,33.906276,219.66867)"
+         transform="matrix(0.06499561,0,0,0.06616304,89.954618,429.66867)"
          jessyink:element="core_view_linear_combination"
          jessyink:lockstate="unlocked">
         <rect
@@ -13715,8 +13720,8 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       <rect
          ry="1.0616032"
          rx="12.739239"
-         y="252.18457"
-         x="120.04766"
+         y="452.18457"
+         x="160.09601"
          height="5"
          width="15"
          id="rect8894-8-8-7-3-3"
@@ -13724,7 +13729,7 @@ JESSYINK.modules.core_comment = new JessyInk_core_comment();
       <g
          style="display:inline"
          id="g2976-3-36-1-7-0-5-8"
-         transform="matrix(0.06499561,0,0,0.06616304,37.519676,227.46592)"
+         transform="matrix(0.06499561,0,0,0.06616304,93.568018,437.46592)"
          jessyink:element="core_view_linear_combination"
          jessyink:lockstate="unlocked">
         <rect
