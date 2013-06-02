@@ -1,0 +1,24 @@
+/* Put your CSS here */
+html, body {
+    margin: 20px;
+}
+
+#content {
+	width:405px;
+	margin:0px auto;
+	text-align:left;
+	padding:15px;
+	border:1px dashed #333;
+	background-color:#eee;
+}
+
+#instructions {
+	width: 24em;
+	margin: 0 auto;
+	font-size: smaller;
+	padding: 5px 0;
+	text-align: center;
+	background-color: cornsilk;
+	border: 1px solid #ffdb66;
+	color: #0d0d00;
+}
