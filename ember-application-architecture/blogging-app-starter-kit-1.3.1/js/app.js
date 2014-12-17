@@ -38,7 +38,7 @@ App.PostsNewRoute = Ember.Route.extend({
 
 App.PostRoute = Ember.Route.extend({
     model: function (params) {
-        return  this.store.find('post', params.post_id);
+        return this.store.find('post', params.post_id);
     },
 
     setupController: function (controller, post) {
