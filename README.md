@@ -4,6 +4,27 @@ ember-presentation
 My Ember.js presentations.
 
 
+The Pollster Pattern
+--------------------
+
+This lightning talk was presented at the Ember.js Amsterdam Meetup on 17 December 2014.
+
+http://www.meetup.com/Ember-js-Amsterdam/events/217543422/
+
+The code is based on Ember 1.8.1 with a small example app.
+
+The presentation is hosted here:
+
+http://bagu.org/presentations/ember-pollster/ember.js-pollster.svg
+
+The example app is running here:
+
+http://bagu.org/presentations/ember-pollster/pollster-starter-kit-1.8.1/
+
+This presentation was created with [Inkscape](http://inkscape.org/) and
+[Sozi](http://sozi.baierouge.fr/).
+
+
 Ember.js Application Architecture
 ---------------------------------
 
