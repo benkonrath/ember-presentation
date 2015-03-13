@@ -1,0 +1,55 @@
+Embedding Ember apps into 'legacy' websites
+
+
+html
+
+<div id="app-container"><div>
+
+js
+
+App = Ember.Application.create({
+  rootElement: '#app-container'
+});
+
+App.Router.reopen({
+  location: 'none'
+});
+
+
+routes
+
+App.IndexRoute = Ember.Route.extend({
+  beforeModel: function() {
+    this.transitionTo('myRoute');
+  }
+});
+
+
+outdated jquery
+
+Ember.$.ajaxSetup({
+  beforeSend: function(xhr, settings) {
+    if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+      xhr.setRequestHeader("X-CSRFToken", csrftoken);
+    }
+  }
+});
+
+
+some kludges
+
+App.ApplicationRoute = Ember.Route.extend({
+  init: function() {
+    this._super();
+    var route = this;
+
+    Ember.$('a[href="#tab-my-route"]').click(function(evt) {
+      var applicationController = route.controllerFor('application');
+      if (!Ember.isNone(applicationController) &&
+            applicationController.get('currentPath') != 'myRoute') {
+        route.transitionTo('myRoute');
+      }
+    });
+  }
+});
+

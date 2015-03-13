@@ -4,6 +4,14 @@ ember-presentation
 My Ember.js presentations.
 
 
+Embedding Ember apps into 'legacy' websites
+-------------------------------------------
+
+This lightning talk was presented at the Ember.js Amsterdam Meetup on 11 March 2014.
+
+http://www.meetup.com/Ember-js-Amsterdam/events/219963212/
+
+
 The Pollster Pattern
 --------------------
 
